@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "getting-started/congratulations",
+              "path": "/docs/getting-started/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/create-a-blog-post",
+              "path": "/docs/getting-started/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/create-a-document",
+              "path": "/docs/getting-started/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/create-a-page",
+              "path": "/docs/getting-started/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/deploy-your-site",
+              "path": "/docs/getting-started/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/markdown-features",
+              "path": "/docs/getting-started/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

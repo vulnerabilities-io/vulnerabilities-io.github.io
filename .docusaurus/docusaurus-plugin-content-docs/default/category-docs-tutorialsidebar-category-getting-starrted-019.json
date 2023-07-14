@@ -1,0 +1,16 @@
+{
+  "title": "Getting starrted",
+  "description": "Getting to know Vulnerabilities.io.",
+  "slug": "/category/getting-starrted",
+  "permalink": "/docs/category/getting-starrted",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/tutorial-basics/create-a-page"
+    }
+  }
+}

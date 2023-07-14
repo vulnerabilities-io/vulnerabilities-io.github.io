@@ -1,0 +1,16 @@
+{
+  "title": "Getting started",
+  "description": "Getting to know Vulnerabilities.io.",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "User Docs",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/getting-started/create-a-page"
+    }
+  }
+}
